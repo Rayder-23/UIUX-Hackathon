@@ -18,7 +18,7 @@ const EditorPickSection: React.FC = () => {
         {/* Editor's Pick Title and Description */}
         <div className="text-center">
           <h2 className="text-3xl sm:text-5xl font-bold text-[#252B42]" style={{ fontFamily: "Montserrat" }}>
-            EDITOR'S PICK
+            EDITOR&apos;S PICK
           </h2>
           <p className="mt-4 text-sm sm:text-base font-light text-[#252B42]" style={{ fontFamily: "Montserrat" }}>
             Problems trying to resolve the conflict between

@@ -53,11 +53,11 @@ const BlogSection: React.FC = () => {
                 </div>
                 {/* Post Title */}
                 <h4 className="text-[20px] font-normal text-[#252B42] w-[247px] h-[60px]">
-                  Loudest à la Madison #1 (L'integral)
+                  Loudest à la Madison #1 (L&apos;integral)
                 </h4>
                 {/* Post Description */}
                 <p className="text-[14px] font-normal text-[#737373] w-[280px] h-[60px]">
-                  We focus on ergonomics and meeting you where you work. It's only a keystroke away.
+                  We focus on ergonomics and meeting you where you work. It&apos;s only a keystroke away.
                 </p>
                 {/* Frame 1 (For Buttons) */}
                 <div className="flex flex-row justify-between items-center gap-[10px] w-[298px] h-[46px] p-[15px_0px]">
@@ -134,11 +134,11 @@ const BlogSection: React.FC = () => {
                 </div>
                 {/* Post Title */}
                 <h4 className="text-[20px] font-normal text-[#252B42] w-[247px] h-[60px]">
-                  Loudest à la Madison #1 (L'integral)
+                  Loudest à la Madison #1 (L&apos;integral)
                 </h4>
                 {/* Post Description */}
                 <p className="text-[14px] font-normal text-[#737373] w-[280px] h-[60px]">
-                  We focus on ergonomics and meeting you where you work. It's only a keystroke away.
+                  We focus on ergonomics and meeting you where you work. It&apos;s only a keystroke away.
                 </p>
                 {/* Frame 1 (For Buttons) */}
                 <div className="flex flex-row justify-between items-center gap-[10px] w-[298px] h-[46px] p-[15px_0px]">
@@ -215,11 +215,11 @@ const BlogSection: React.FC = () => {
                 </div>
                 {/* Post Title */}
                 <h4 className="text-[20px] font-normal text-[#252B42] w-[247px] h-[60px]">
-                  Loudest à la Madison #1 (L'integral)
+                  Loudest à la Madison #1 (L&apos;integral)
                 </h4>
                 {/* Post Description */}
                 <p className="text-[14px] font-normal text-[#737373] w-[280px] h-[60px]">
-                  We focus on ergonomics and meeting you where you work. It's only a keystroke away.
+                  We focus on ergonomics and meeting you where you work. It&apos;s only a keystroke away.
                 </p>
                 {/* Frame 1 (For Buttons) */}
                 <div className="flex flex-row justify-between items-center gap-[10px] w-[298px] h-[46px] p-[15px_0px]">
