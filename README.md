@@ -1,5 +1,5 @@
 # Hello, Please go through README.
-My name is Ryyan Abdullah Baig, (Roll No. 65355), I was a Senior Student in Q1 and am now purposely a regular student as my responsibilities at home have increased and can no longer devote the time to be a Senior Student/Leader. I missed the last Hackathon as I was not aware/confused as to what to do.
+My name is Ryyan Abdullah, (Roll No. 65355), I was a Senior Student in Q1 and am now purposely a regular student as my responsibilities at home have increased and can no longer devote the time to be a Senior Student/Leader. I missed the last Hackathon as I was not aware/confused as to what to do.
 
 I am taking this project as a test of my skills that I have picked up from the Governor IT Program, under the teaching of Sir Hamzah Syed.
 
