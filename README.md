@@ -10,6 +10,5 @@ You may have told me to take the points penalty to take the extension but I have
 # GitHub Link: 
 https://github.com/Rayder-23/UIUX-Hackathon
 
-# Vercel Links: 
-https://uiux-hackathon-git-master-rayders-projects-00a1126a.vercel.app
+# Vercel Link:
 https://uiux-hackathon-xi.vercel.app
