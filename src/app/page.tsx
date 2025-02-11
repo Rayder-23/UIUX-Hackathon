@@ -24,8 +24,6 @@ export default function Home() {
         <Hero3 />
         {/* Blog Section */}
         <BlogSection />
-        {/* Footer Section */}
-        
       </>
       
   );

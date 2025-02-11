@@ -12,7 +12,3 @@ https://github.com/Rayder-23/UIUX-Hackathon
 
 # Vercel Link:
 https://uiux-hackathon-xi.vercel.app
-
-Installs:
-sanity
-npm i --save @fortawesome/fontawesome-svg-core
