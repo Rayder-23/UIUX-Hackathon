@@ -15,7 +15,6 @@ https://uiux-hackathon-xi.vercel.app
 
 
 ## Installs:
-
 ```
 npm install --global sanity@latest
 ```
